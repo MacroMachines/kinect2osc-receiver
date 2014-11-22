@@ -1,0 +1,22 @@
+{
+  "name": "kinect2osc-receiver",
+  "version": "0.0.1",
+  "description": "Kinect2OSC counterpart for node.js/Plask.",
+  "keywords": [
+    "pex",
+    "kinect"
+  ],
+  "homepage": "https://github.com/szymonkaliski/kinect2osc-receiver",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/szymonkaliski/kinect2osc-receiver.git"
+  },
+  "main": "index.js",
+  "author": "Szymon Kaliski <contact@treesmovethemost.com>",
+  "license": "ISC",
+  "dependencies": {
+    "lodash.throttle": "^2.4.1",
+    "omgosc": "^1.0.0",
+    "pex-geom": "^0.9.2"
+  }
+}
